@@ -8,7 +8,7 @@ public class Main {
                 "Santiago de Chile", "Lisboa",  "Tokio"};
 
         int temperature[][] = new int[][]{
-                {-2, 33},
+                {-2, 40},
                 {-3, 32},
                 {-8, 27},
                 {4, 37},
